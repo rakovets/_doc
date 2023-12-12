@@ -1,4 +1,8 @@
 [submodule "books"]
 	path = books
-	url = https://github.com/rakovets/books.git
+	url = https://github.com/rakovets/books
+	branch = main
+[submodule "private"]
+	path = private
+	url = https://github.com/rakovets/private
 	branch = main
