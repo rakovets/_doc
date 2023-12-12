@@ -6,3 +6,6 @@
 	path = private
 	url = https://github.com/rakovets/private
 	branch = main
+[submodule "docs"]
+	path = docs
+	url = https://github.com/rakovets/docs
