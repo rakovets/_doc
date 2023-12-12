@@ -1,0 +1,4 @@
+[submodule "books"]
+	path = books
+	url = https://github.com/rakovets/books.git
+	branch = main
