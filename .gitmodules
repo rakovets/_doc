@@ -9,3 +9,8 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/rakovets/docs
+	branch = main
+[submodule "interview"]
+	path = interview
+	url = https://github.com/rakovets/interview
+	branch = main
